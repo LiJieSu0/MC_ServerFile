@@ -9334,6 +9334,42 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-10-31 09:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-10-31 09:51:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2024-10-31 10:04:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2024-10-31 10:04:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_nickel_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2024-10-31 10:04:17 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
+    "criteria": {
+      "has_raw_nickel": "2024-10-31 10:04:17 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/gold_block_from_smelting": {
     "criteria": {
       "has_raw_gold": "2024-10-31 10:04:29 +0000"
@@ -9358,123 +9394,15 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/zinc_dust_from_raw": {
-    "criteria": {
-      "has_raw_zinc": "2024-10-31 10:06:22 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/nickel_ingot_from_raw": {
-    "criteria": {
-      "has_item": "2024-10-31 10:04:17 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/iron_pickaxe_repairing": {
-    "criteria": {
-      "has_iron_pickaxe": "2024-10-31 09:51:28 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2024-10-31 10:04:17 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/raw_osmium_block": {
-    "criteria": {
-      "has_raw_TagKey[minecraft:item / forge:raw_materials/osmium]": "2024-10-31 10:06:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-10-31 10:04:29 +0000"
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/osmium_dust_from_raw": {
-    "criteria": {
-      "has_raw_osmium": "2024-10-31 10:06:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/zinc_ingot_from_raw": {
-    "criteria": {
-      "has_item": "2024-10-31 10:06:22 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/raw_nickel_block": {
-    "criteria": {
-      "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2024-10-31 10:04:17 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
-    "criteria": {
-      "has_raw_nickel": "2024-10-31 10:04:17 +0000"
-    },
-    "done": true
-  },
-  "railcraft:recipes/blast_furnace/blasting_iron_axe": {
-    "criteria": {
-      "has_iron_axe": "2024-10-31 10:07:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-10-31 09:51:28 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/raw_tin_from_block": {
-    "criteria": {
-      "has_item": "2024-10-31 10:06:03 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/zinc_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2024-10-31 10:06:22 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/osmium_ingot_from_raw": {
-    "criteria": {
-      "has_item": "2024-10-31 10:06:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-10-31 10:04:29 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/iron_axe_repairing": {
-    "criteria": {
-      "has_iron_axe": "2024-10-31 10:07:02 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/tin_dust_from_raw_block": {
-    "criteria": {
-      "has_raw_tin_block": "2024-10-31 10:06:03 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/osmium_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2024-10-31 10:06:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/raw_zinc_block": {
-    "criteria": {
-      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2024-10-31 10:06:22 +0000"
     },
     "done": true
   },
@@ -9490,11 +9418,245 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_tin_from_block": {
+    "criteria": {
+      "has_item": "2024-10-31 10:06:03 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/tin_dust_from_raw_block": {
+    "criteria": {
+      "has_raw_tin_block": "2024-10-31 10:06:03 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_raw": {
+    "criteria": {
+      "has_raw_zinc": "2024-10-31 10:06:22 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2024-10-31 10:06:22 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2024-10-31 10:06:22 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2024-10-31 10:06:22 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_osmium_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/osmium]": "2024-10-31 10:06:46 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/osmium_dust_from_raw": {
+    "criteria": {
+      "has_raw_osmium": "2024-10-31 10:06:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2024-10-31 10:06:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2024-10-31 10:06:46 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/blast_furnace/blasting_iron_axe": {
+    "criteria": {
+      "has_iron_axe": "2024-10-31 10:07:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2024-10-31 10:07:02 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_helmet_repairing": {
     "criteria": {
       "has_chainmail_helmet": "2024-10-31 10:12:36 +0000"
     },
     "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-31 12:54:23 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/empty_detector": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/cracked_stone_bricks": {
+    "criteria": {
+      "has_the_recipe": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/stone_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/chiseled_stone_bricks": {
+    "criteria": {
+      "has_the_recipe": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutstonemason": {
+    "criteria": {
+      "has_items": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/stone_bricks_chain": {
+    "criteria": {
+      "recipe_condition": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutstonesmeltery": {
+    "criteria": {
+      "has_items": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2024-10-31 12:54:24 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hempcrete": {
+    "criteria": {
+      "has_item": "2024-10-31 14:46:47 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hemp_fabric": {
+    "criteria": {
+      "has_hemp_fiber": "2024-10-31 14:46:47 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/string": {
+    "criteria": {
+      "has_hemp_fiber": "2024-10-31 14:46:47 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_rope": {
+    "criteria": {
+      "has_hemp_fiber": "2024-10-31 14:46:47 +0000"
+    },
+    "done": true
+  },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "fluffy_seeds": "2024-10-31 14:39:31 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
