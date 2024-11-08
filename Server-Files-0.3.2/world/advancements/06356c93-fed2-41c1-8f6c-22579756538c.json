@@ -1,0 +1,1650 @@
+{
+  "tombstone:adventure/halloween": {
+    "criteria": {
+      "coded_trigger": "2024-11-01 15:06:34 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2024-11-01 15:06:35 +0000"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2024-11-01 15:06:35 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-11-01 15:06:35 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-11-01 15:06:35 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-11-01 15:06:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-11-01 15:06:35 +0000"
+    },
+    "done": true
+  },
+  "railcraft:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-11-01 15:06:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2024-11-01 15:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-01 15:06:35 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-11-01 15:06:35 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/crafting_table": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:06:35 +0000"
+    },
+    "done": true
+  },
+  "theurgy:book_root": {
+    "criteria": {
+      "theurgy_present": "2024-11-01 15:06:35 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-11-01 15:06:35 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-01 15:06:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-11-01 15:06:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2024-11-01 15:56:53 +0000",
+      "minecraft:snowy_plains": "2024-11-01 15:06:36 +0000",
+      "minecraft:snowy_beach": "2024-11-01 15:06:51 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "cold_desert": "2024-11-01 15:43:31 +0000",
+      "tundra": "2024-11-01 15:51:34 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "cold_desert": "2024-11-01 15:43:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-01 15:58:26 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_prismarine": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/glue_ball": {
+    "criteria": {
+      "criterion0": "2024-11-01 15:53:16 +0000",
+      "criterion1": "2024-11-01 15:53:16 +0000"
+    },
+    "done": true
+  },
+  "solcarrot:recipes/food_book": {
+    "criteria": {
+      "has_book": "2024-11-01 15:53:14 +0000",
+      "has_carrot": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-11-01 15:59:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-11-01 15:53:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2024-11-01 15:58:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/jacaranda": {
+    "criteria": {
+      "has_acacia": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/iron_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/oak_fish_mount": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2024-11-01 15:58:24 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/bricks": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/oak_logs_to_trapdoors": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/birch_fish_mount": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/brown_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
+    "criteria": {
+      "has_leggings": "2024-11-01 15:53:13 +0000",
+      "has_axe": "2024-11-01 15:53:14 +0000",
+      "has_helmet": "2024-11-01 15:53:14 +0000",
+      "has_fishing_rod": "2024-11-01 15:53:15 +0000",
+      "has_bow": "2024-11-01 15:53:15 +0000",
+      "has_chestplate": "2024-11-01 15:53:14 +0000",
+      "has_sword": "2024-11-01 15:53:15 +0000",
+      "has_fillet_knife": "2024-11-01 15:53:14 +0000",
+      "has_shovel": "2024-11-01 15:53:14 +0000",
+      "has_hoe": "2024-11-01 15:53:14 +0000",
+      "has_boots": "2024-11-01 15:53:14 +0000",
+      "has_pickaxe": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/dark_oak_fish_mount": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/hellbark": {
+    "criteria": {
+      "has_acacia": "2024-11-01 15:53:15 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/oak_logs_to_pressure_plates": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/palm_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/sushi": {
+    "criteria": {
+      "has_alt_items": "2024-11-01 15:53:15 +0000",
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/worm_farm": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2024-11-01 15:53:16 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/note_hook": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2024-11-01 15:53:27 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/jacaranda_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/gold_hook": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/dead_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/willow_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:13 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/spruce_fish_mount": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/sandstone": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_crop": "2024-11-01 15:58:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2024-11-01 15:53:27 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/diorite": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2024-11-01 15:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtain_rods": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/redwood": {
+    "criteria": {
+      "has_acacia": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/water_tank_siding": {
+    "criteria": {
+      "has_slime_ball": "2024-11-01 15:53:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/orange_autumn_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/magic": {
+    "criteria": {
+      "has_acacia": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/rainbow_birch_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/light_hook": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/oak": {
+    "criteria": {
+      "has_wood": "2024-11-01 15:58:07 +0000",
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_chair": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/fishing_line": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/fir": {
+    "criteria": {
+      "has_acacia": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/granite": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-11-01 15:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/maple_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2024-11-01 15:53:14 +0000",
+      "has_fillet_knife": "2024-11-01 15:53:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2024-11-01 15:53:15 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_desk": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/oak_log_1x": {
+    "criteria": {
+      "has_oak_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/diamond_hook": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "packingtape:recipes/tools/tape": {
+    "criteria": {
+      "has_slime_ball": "2024-11-01 15:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2024-11-01 15:53:14 +0000",
+      "has_wpt": "2024-11-01 15:53:14 +0000",
+      "has_wct": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blackstone": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/food/utility/charcoal_from_campfire": {
+    "criteria": {
+      "has_logs": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2024-11-01 15:53:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_classic": {
+    "criteria": {
+      "has_logs": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/wigglewood_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/fir_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/yellow_autumn_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-11-01 15:53:16 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2024-11-01 15:53:15 +0000",
+      "has_fillet_knife": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "energymeter:recipes/energymeter/meter": {
+    "criteria": {
+      "has_item": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-01 15:58:26 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/palm": {
+    "criteria": {
+      "has_acacia": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/jungle_fish_mount": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_coffee_table": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_bellpepper": "2024-11-01 15:58:24 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/grongle_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/willow": {
+    "criteria": {
+      "has_acacia": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/coke_oven/charcoal": {
+    "criteria": {
+      "has_logs": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-11-01 15:53:16 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/hellbark_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/double_hook": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-11-01 15:53:16 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/iron_hook": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/jellyfish_to_slimeball": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mangrove": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/snad/drit": {
+    "criteria": {
+      "has_dirt": "2024-11-01 15:53:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/red_sandstone": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/oak_logs_to_slabs": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/prismarine": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/redwood_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/metal": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/origin_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/components": {
+    "criteria": {
+      "has_wood": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/architectscutter": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/cherry": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/logs_to_bowls": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/oak_logs_to_doors": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/building_blocks/planks_from_driftwood": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:15 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/deepslate": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/jungle": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/stick": {
+    "criteria": {
+      "has_ingredient": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:root": {
+    "criteria": {
+      "sample_trigger": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/andesite": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/redstone_hook": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:15 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/bobber": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/flowering_oak_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:15 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/heavy_hook": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/dead": {
+    "criteria": {
+      "has_acacia": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_blinds": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/oak_logs_to_stairs": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "bellpepper_seed": "2024-11-01 15:58:24 +0000"
+    },
+    "done": false
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/acacia_fish_mount": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_table": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/oak_logs_to_boats": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/mahogany_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_ajvar": {
+    "criteria": {
+      "has_bellpepper": "2024-11-01 15:58:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/bellpepper_seed": {
+    "criteria": {
+      "has_bellpepper": "2024-11-01 15:58:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2024-11-01 15:53:15 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/smogstem_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/magic_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/warped": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/magnet_card": {
+    "criteria": {
+      "has_wct": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-11-01 15:59:02 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2024-11-01 15:53:14 +0000",
+      "has_fillet_knife": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/golden_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_crate": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/mahogany": {
+    "criteria": {
+      "has_acacia": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-11-01 15:59:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/dirt_1x": {
+    "criteria": {
+      "has_dirt": "2024-11-01 15:53:27 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2024-11-01 15:53:14 +0000",
+      "has_wct": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2024-11-01 15:53:14 +0000",
+      "has_wct": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2024-11-01 15:53:14 +0000",
+      "has_wpt": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_slime_ball": "2024-11-01 15:53:16 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/stone": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/crimson": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/red_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/slime_block": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:53:16 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/umbran_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/snowblossom_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-01 15:53:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/charcoal": {
+    "criteria": {
+      "has_the_recipe": "2024-11-01 15:58:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2024-11-01 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
+    "criteria": {
+      "has_items": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/umbran": {
+    "criteria": {
+      "has_acacia": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-11-01 15:58:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "bellpepper_seed": "2024-11-01 15:58:24 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2024-11-01 15:53:15 +0000",
+      "has_fillet_knife": "2024-11-01 15:53:14 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
